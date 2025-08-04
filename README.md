@@ -10,6 +10,6 @@
 ## 🔧 Установка
 
 ```bash
-git clone https://github.com/yourusername/whalewatch.git
+git clone https://github.com/Viteksparta/whalewatch.git
 cd whalewatch
 pip install -r requirements.txt
